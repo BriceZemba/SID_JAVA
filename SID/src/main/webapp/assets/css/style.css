@@ -1,0 +1,20 @@
+.user-panel {
+    float: right;
+    padding: 10px;
+    text-align: right;
+}
+
+.navbar {
+    padding: 5px;
+}
+
+#footer {
+    background: #E0E0E0;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+}
